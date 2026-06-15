@@ -2,4 +2,4 @@ Team project
 Version 1.0
 Feature A implemented
 Feature B implemented
-A new documentation file created for documents
+Documenation updated
